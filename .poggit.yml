@@ -1,9 +1,7 @@
-
---- # Poggit-CI Manifest. Open the CI at https://github.com/Crypt97/TotemJoinEffect
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Crypt97/TotemJoinEffect
 branches:
 - master
 projects:
-  TotemJoinEffect:
-    path: "TotemEffectJoin-source\"
-    icon: icon.png
+  TotemEffectJoin-source:
+    path: TotemEffectJoin-source/
 ...
