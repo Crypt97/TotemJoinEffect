@@ -1,0 +1,10 @@
+name: TotemJoinEffect
+version: 1.0
+author: Crypthu
+api:
+- 3.0.0
+main: TotemJoinEffect\Main
+commands:
+  effect2:
+    description: "Totem Effect"
+    usage: "/effect2"
