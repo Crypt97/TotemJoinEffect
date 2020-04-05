@@ -4,6 +4,6 @@ branches:
 - master
 projects:
   TotemJoinEffect:
-    path: ""
+    path: "TotemEffectJoin-source\"
     icon: icon.png
 ...
